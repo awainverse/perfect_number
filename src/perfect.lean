@@ -1,4 +1,5 @@
 import data.nat.totient
+import number_theory.quadratic_reciprocity
 
 open_locale classical
 open_locale big_operators
